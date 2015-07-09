@@ -16,11 +16,11 @@ Vim Script in command line!
 echo 'argc:' argc()
 echo 'argv:' argv()
 echo 'Hello World!'
-```vi
+```
 
 - 実行
 
-```
+```sh
 $ vs src.vim
 argc: 1
 argv: ['src.vim']
